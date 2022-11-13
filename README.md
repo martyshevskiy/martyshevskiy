@@ -1,5 +1,5 @@
 #### About me
-##### Hello! My name is Vladimir Martyshevsky and I am a beginner QA engineer.
+#####  Hello! My name is Vladimir Martyshevsky, I am a beginner QA engineer. I took several software testing courses and was involved in the development of a small application for the App Store. I know the theoretical part of testing well. I also understand how the client-server architecture works. The tools I have worked with can be found below.
 
 #### Tools and Languages
 
